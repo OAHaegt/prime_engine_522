@@ -1,9 +1,0 @@
-# Ignore everything by default
-*
-.vs/
-
-# Allow tracking of these directories
-!/.gitignore
-!/AssetsIn/
-!/AssetsOut/
-!/Code/
